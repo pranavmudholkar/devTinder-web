@@ -32,7 +32,7 @@ const Login = () => {
     <div className="flex justify-center m-4 p-4">
       <div className="card bg-base-300 w-96 shadow-sm">
         <div className="card-body">
-          <h2 className="card-title">Card title!</h2>
+          <h2 className="card-title">Login</h2>
           <div>
             <div className="m-2 p-2">
               <legend className="fieldset-legend">Email ID</legend>
